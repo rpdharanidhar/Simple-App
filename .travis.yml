@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "stable"
+
+script:
+    - bash runlocal.sh test
+
+cache:
+  directories:
+    - "node_modules"
