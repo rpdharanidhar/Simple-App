@@ -14,6 +14,10 @@ Language: Node Js
     - Chai
     - Chai-http
 
+    Development Dependancies:
+
+    - eslint
+
 Endpoints:
 
 ``` / ```
