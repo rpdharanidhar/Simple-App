@@ -1,0 +1,9 @@
+# Dependancies
+node_modules
+# Development tools
+runlocal.sh
+README.md
+Dockerfile
+docker-compose.yml
+.gitignore
+# .git is required for some env variables
