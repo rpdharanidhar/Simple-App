@@ -106,7 +106,7 @@ Instructions to build/run inside docker containers:
   - Docker 17.05+
 
 
-### 3.1 Running with Node Js
+### 3.1 Running with Docker
 
 
 Build the docker image:
