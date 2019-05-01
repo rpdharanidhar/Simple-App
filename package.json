@@ -1,6 +1,6 @@
 {
   "name": "simple-app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Simple node js based web app involving a CI pipeline and testing",
   "main": "app.js",
   "directories": {
@@ -8,7 +8,6 @@
   },
   "scripts": {
     "test": "mocha",
-    "build": "export TESTEN=HELLO",
     "start": "node server.js"
   },
   "repository": {
