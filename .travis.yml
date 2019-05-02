@@ -3,7 +3,7 @@ node_js:
   - "stable"
 
 script:
-    - make test
+    - make test-app
 
 cache:
   directories:

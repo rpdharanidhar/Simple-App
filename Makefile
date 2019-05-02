@@ -9,7 +9,7 @@ start:
 install:
 	npm install
 
-test:
+test-app:
 	npm test
 
 build:

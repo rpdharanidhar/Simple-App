@@ -87,7 +87,7 @@ Install the Node Js Dependancies:
 
 Test the Application:
 
-`make test`
+`make test-app`
 
 Start the Application:
 
