@@ -3,7 +3,7 @@ node_js:
   - "stable"
 
 script:
-    - bash runlocal.sh test
+    - make test
 
 cache:
   directories:

@@ -83,15 +83,15 @@ Clone the repository:
 
 Install the Node Js Dependancies:
 
-`bash runlocal.sh install`
+`make install`
 
 Test the Application:
 
-`bash runlocal.sh test`
+`make test`
 
 Start the Application:
 
-`bash runlocal.sh start`
+`make start`
 
 The App starts on port 8000, therefore the endpoints are available here:
 
@@ -115,11 +115,11 @@ Instructions to build/run inside docker containers:
 
 Build the docker image:
 
-`bash runlocal.sh build`
+`make build`
 
 Run the newly created docker image:
 
-`bash runlocal.sh run`
+`make run`
 
 The App starts on port 8000, therefore the endpoints are available here:
 

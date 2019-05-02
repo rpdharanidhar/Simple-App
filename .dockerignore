@@ -1,7 +1,7 @@
 # Dependancies
 node_modules
 # Development tools
-runlocal.sh
+Makefile
 README.md
 Dockerfile
 docker-compose.yml
