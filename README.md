@@ -17,6 +17,7 @@ Language: Node Js
     Development Dependancies:
 
     - eslint
+    - eslint plugin node
 
 Endpoints:
 

@@ -1,6 +1,6 @@
 {
   "name": "simple-app",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "A Simple node js based web app involving a CI pipeline and testing",
   "main": "app.js",
   "directories": {
@@ -38,6 +38,7 @@
     "mocha": "^6.1.4"
   },
   "devDependencies": {
-    "eslint": "^5.16.0"
+    "eslint": "^5.16.0",
+    "eslint-plugin-node": "^8.0.1"
   }
 }
