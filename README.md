@@ -158,8 +158,10 @@ In order for this application to meet production readiness I would HIGHLY recomm
 
 Next improvements:
 
+  - Git Branching strategy for future releases, such as Git Flow.
   - Better Test Coverage, including exception testing.
   - The use of a docker repository store to store and retrieve a custom docker image.
+  - The use of a docker security scanning tool to verify the docker images.
   - Smaller Docker image (current ~97MB).
   - Https support.
   - Better logging and tracing for debugging.
